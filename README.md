@@ -11,7 +11,7 @@ Calculation relies on system pixel density information, so it might be slightly 
 
 ```
 dependencies:
-  flutter_full_pdf_viewer: ^1.0.3
+  physical_diagonal: ^0.0.1
 ```
 
 
