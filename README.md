@@ -11,7 +11,7 @@ Calculation relies on system pixel density information, so it might be slightly 
 
 ```
 dependencies:
-  physical_diagonal: ^0.0.1
+  physical_diagonal: ^0.0.2
 ```
 
 
