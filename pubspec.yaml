@@ -1,6 +1,6 @@
 name: physical_diagonal
 description: Detects physical screen diagonal in inches
-version: 0.0.1
+version: 0.0.2
 author: Dmitry Ivanitsky <dmitry.iv@ukr.net>
 homepage: https://github.com/DmitryIvanitsky/flutter_plugin/tree/flutter-plugin
 
